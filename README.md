@@ -45,11 +45,17 @@ Cross-validation for robustness
 ├── README.md                          # Project documentation
 
 # 📈 Results
+
 Model	Accuracy	Precision	Recall	F1-Score
+
 Logistic Regression	0.96	0.96	0.96	0.96
+
 SVM (Optimized)	0.97	0.97	0.97	0.97
+
 Random Forest	0.93	0.93	0.93	0.93
+
 Decision Tree	0.86	0.86	0.86	0.86
+
 AdaBoost	0.35	0.15	0.35	0.21
 
 # 🔑 Key Findings:
